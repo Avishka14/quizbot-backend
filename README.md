@@ -41,7 +41,7 @@ The system aims to:
 ## Technology Stack
 
 ### Backend Framework
-- **Spring Boot** 2.7.x / 3.x
+- **Spring Boot** 
   - Spring Web (REST API)
   - Spring Data JPA (Database interaction)
   - Spring Security (Authentication & Authorization)
@@ -53,7 +53,7 @@ The system aims to:
   - ACID compliance for data integrity
 
 ### Build Tool
-- **Maven** or **Gradle**
+- **Maven** 
   - Dependency management
   - Build automation
 
@@ -66,8 +66,8 @@ The system aims to:
 - **Mockito** : Unit Testing
 
 ### Development Tools
-- **Java** 11/17/21
-- **IntelliJ IDEA / Eclipse / VS Code**
+- **Java** 17
+- **IntelliJ IDEA**
 - **Postman**: API testing
 - **MySQL Workbench**: Database management
 
