@@ -27,7 +27,6 @@ The system aims to:
 
 ---
 
-<img width="1328" height="805" alt="Image" src="https://github.com/user-attachments/assets/0be7a080-469d-4c54-9a50-1036eeb744d6" />
 
 ### Design Patterns
 - **MVC (Model-View-Controller)**: Separation of concerns
